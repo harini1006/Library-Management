@@ -33,8 +33,6 @@ Star UML
 ![image](https://github.com/harini1006/Library-Management/assets/113497405/0b690704-09a0-42ed-88ce-80798b1ff32c)
 #### COMMUNICATION DIAGRAM: 
 ![image](https://github.com/harini1006/Library-Management/assets/113497405/55511b10-614c-4765-b98b-f4c213ab6460)
-### RESULT:
-Thus the Library management system project was executed and the output was verified.
 
 
 
